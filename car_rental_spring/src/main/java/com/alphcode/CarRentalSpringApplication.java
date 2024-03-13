@@ -1,4 +1,4 @@
-package com.alphcode.car_rental_spring;
+package com.alphcode;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
